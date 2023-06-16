@@ -1,2 +1,2 @@
-# To-Do-list
-To-Do list using HTML , PHP and  JavaScript
+# Note-Taking-WEbpage
+Note-Taking-WEbpage using HTML , PHP and  JavaScript
